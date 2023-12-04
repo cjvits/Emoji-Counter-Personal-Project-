@@ -25,9 +25,9 @@ public class EmojiFriendCounter {
 
         System.out.println("What friend would you like to count? Press the number next to the friend!");
         System.out.println("1) " + "\uD83E\uDDDC");
-        System.out.println("2) 🦄");
-        System.out.println("3) 👸🏾");
-        System.out.println("4) 🐿️");
+        System.out.println("2) " + "\uD83E\uDD84");
+        System.out.println("3) " + "\uD83D\uDC78");
+        System.out.println("4) " + "\uD83D\uDC3F");
 
         return chooseUsersEmoji();
 
